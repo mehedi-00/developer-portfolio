@@ -98,3 +98,44 @@ nav ul li {
   color: #fd6e0a;
   border: 1px solid #fd6e0a;
 }
+/* main part styles */
+main{
+  margin-top: 200px;
+}
+/* About section styles */
+
+.about-content{
+  padding: 100px ;
+  background: #fff8f3;
+}
+.section-header{
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 48px;
+  text-align: center;
+  color: #181818;
+}
+.section-description{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #757575;
+  margin: 30px 0;
+}
+.about-content .row{
+  justify-content: space-evenly;
+}
+.about-info{
+  width: 25%;
+  text-align: center;
+}
+.about-info p{
+  color: #757575;
+  font-size: 20px;
+}
+.about-info h4{
+  color: #474747;
+  font-weight: 700;
+  margin-top: 10px;
+}
