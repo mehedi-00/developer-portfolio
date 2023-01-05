@@ -211,6 +211,9 @@ margin: 15px 0;
   border: none;
 }
 /* contact section styles */
+.contact-us{
+  background: #FFF8F3;
+}
 .conatct-header{
   font-weight: 700;
 font-size: 35px;
