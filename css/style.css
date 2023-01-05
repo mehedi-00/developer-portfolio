@@ -204,6 +204,49 @@ margin: 15px 0;
   font-weight: 400;
   padding-right: 20px;
 }
+.resumes .btn{
+   margin: 30px auto;
+}
 .border-none{
   border: none;
+}
+/* contact section styles */
+.conatct-header{
+  font-weight: 700;
+font-size: 35px;
+line-height: 48px;
+color: #181818;
+}
+.contact-description{
+  font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #474747;
+margin: 30px 0;
+}
+.contact {
+  width: calc(50% - 100px);
+}
+.contact img{
+  margin-right: 10px;
+}
+ input[type="text"] , input[type="email"] , textarea{
+  width: 100%;
+  background: #fff;
+  border: unset;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  margin-bottom: 24px;
+  padding: 18px 30px;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+}
+form{
+  margin-top: 30px;
+}
+input{
+  height: 64px;
+  
 }
